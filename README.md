@@ -7,8 +7,8 @@ Current models available:
 * Jackson REV2 (RIGHT)
 
 <p align="center">
-<img width="200" alt="Screenshot 2024-06-17 at 9 23 20 PM" src="https://github.com/cornellmotionstudio/DIYDrone/blob/master/figs/dylanRev1.jpg">
-<img width="200" alt="Screenshot 2024-06-17 at 9 23 20 PM" src="https://github.com/cornellmotionstudio/DIYDrone/blob/master/figs/jacksonRev1.png">
+<img width="300" alt="Dylan REV 1" src="https://github.com/cornellmotionstudio/DIYDrone/blob/master/figs/dylanRev1.jpg">
+<img width="300" alt="Jackson REV 1" src="https://github.com/cornellmotionstudio/DIYDrone/blob/master/figs/jacksonRev1.png">
 </p>
 
 (to do: add blurb about each model and updated pictures)
