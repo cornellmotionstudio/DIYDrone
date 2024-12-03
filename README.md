@@ -23,7 +23,7 @@ Start by following the instructions in the [Hardware Assembly](https://github.co
 wiki page.
 
 Once you are done, you should navigate to the specific model you are building to complete the electrical and 
-software parts: [Dylan](https://github.com/cornellmotionstudio/DylanDrone/wiki) or 
+software parts: [Dylan](https://github.com/cornellmotionstudio/DylanDroneV2/wiki) or 
 [Jackson](https://github.com/cornellmotionstudio/JacksonDronev2/wiki).
 
 
